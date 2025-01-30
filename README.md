@@ -1,3 +1,4 @@
+![Profile Banner]((https://github.com/pravinth10/pravinth10/raw/refs/heads/main/github%20logo.webp)
 - 👋 Hi, I’m Pravinth Jeyatharan
 - 🎓 Computer Science Undergraduate at SLIIT | 💻 Developer | 🚀 Tech Enthusiast
 - 📊 Current GPA:3.85  
